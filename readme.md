@@ -24,7 +24,7 @@ BtUnpair can be run as a console application:
 BtUnpair.exe "<deviceAddress>"
 ```
 
-where `<deviceName>` is a MAC address of the device to unpair.
+where `<deviceAddress>` is a MAC address of the device that should be unpaired.
 
 #### Example
 
