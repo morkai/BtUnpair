@@ -21,7 +21,7 @@ A simple Bluetooth device unpairing utility.
 BtUnpair can be run as a console application:
 
 ```
-BtAuth.exe "<deviceAddress>"
+BtUnpair.exe "<deviceAddress>"
 ```
 
 where `<deviceName>` is a MAC address of the device to unpair.
